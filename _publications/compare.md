@@ -1,0 +1,11 @@
+---
+title: "Compare-xAI: Toward Unifying Functional Testing Methods for Post-hoc XAI Algorithms into a Multi-dimensional Benchmark"
+authors: "Mohamed Karim Belaid, <strong>Richard Bornemann</strong>, Maximilian Rabus, Ralf Krestel, Eyke Hüllermeier"
+venue: "World Conference on Explainable Artificial Intelligence"
+year: 2023
+image: "/images/benchmark.png"
+url: "https://link.springer.com/chapter/10.1007/978-3-031-44067-0_5"
+category: "conference"
+---
+
+In recent years, Explainable AI (xAI) attracted a lot of attention as various countries turned explanations into a legal right. xAI algorithms enable humans to understand the underlying models and explain their behavior, leading to insights through which the models can be analyzed and improved beyond the accuracy metric by, e.g., debugging the learned pattern and reducing unwanted biases. However, the widespread use of xAI and the rapidly growing body of published research in xAI have brought new challenges. A large number of xAI algorithms can be overwhelming and make it difficult for practitioners to choose the correct xAI algorithm for their specific use case. This problem is further exacerbated by the different approaches used to assess novel xAI algorithms, making it difficult to compare them to existing methods. To address this problem, we introduce Compare-xAI, a benchmark that allows for a direct comparison of popular xAI algorithms with a variety of different use cases. We propose a scoring protocol employing a range of functional tests from the literature, each targeting a specific end-user requirement in explaining a model. To make the benchmark results easily accessible, we group the tests into four categories (fidelity, fragility, stability, and stress tests). We present results for 13 xAI algorithms based on 11 functional tests. After analyzing the findings, we derive potential solutions for data science practitioners as workarounds to the found practical limitations. Finally, Compare-xAI is a tentative to unify systematic evaluation and comparison methods for xAI algorithms with a focus on the end-user’s requirements. 
